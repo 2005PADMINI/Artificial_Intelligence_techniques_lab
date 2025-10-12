@@ -1,0 +1,2 @@
+# Artificial_Intelligence_techniques_lab
+lab tasks
